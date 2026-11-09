@@ -156,6 +156,7 @@
 - [jellyfin-powertoys](https://github.com/lennykean/jellyfin-powertoys) - A collection of plugins to enhance Jellyfin with additional features and tools.
 - [JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - Overrides Jellyfin settings such as *Enable Backdrops* and *Enable Theme Music* across all devices. `✅ JF12`
 - [Jellyfin-Xtream-Library](https://github.com/firestaerter3/Jellyfin-Xtream-Library) - Syncs Xtream VOD and Series content to native Jellyfin libraries via STRM files, with automatic metadata lookup and Live TV support.
+- [JellyLearning](https://github.com/Trevo525/JellyLearning) - Turns a Shows library into a course library: sections and lectures in course order, exact resume positions, course progress, viewable resources, and a course player. `🔹 Beta` `✅ JF12`
 - [JellySTRMprobe](https://github.com/firestaerter3/JellySTRMprobe) - Probes STRM files to extract media information (codec, resolution, duration, audio) that Jellyfin skips during library scans.
 - [media-upload-plugin](https://github.com/GrandguyJS/media-upload-plugin) - Media-manager that provides uploads, bulk downloads from URLs, and directory browsing within Jellyfin.
 - [quality-gate](https://github.com/GeiserX/quality-gate) - Restricts each user to a resolution limit between 480p and 4K, checked against the file's actual video stream rather than its filename. `✅ JF12`
